@@ -1,5 +1,5 @@
 # Materiały do przygotowania przed kursem
-- [Instalacja narzędzi](docs/tooling_installation.md)
+- [Przygotowanie środowiska programistycznego na swoim komputerze](docs/dev_environment_preparation.md)
 
 
 # Teoria
